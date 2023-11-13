@@ -2119,7 +2119,7 @@ body.boxed {
 }
 
 .ds {
-	background-color: #3c3c3c;
+	background-color: #d1cfcf;
 	color: #a0a0a0
 }
 
@@ -7186,7 +7186,8 @@ aside .widget_tag_cloud a:hover {
 
 .fontsize_20 {
     color: black;
-	font-size: 20px    
+	font-size: 20px
+    
 }
 
 .fontsize_24 {
